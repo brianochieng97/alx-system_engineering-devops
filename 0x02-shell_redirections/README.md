@@ -8,3 +8,4 @@
  Task 7. Write a shell script that creates a file and contains a text ending by a new line
  Task 8. Write a script that writes into the file the result of the command ls -la
  Task 9. Write a script that duplicates the last line of the file iacta
+ Task 10. Write a script that deletes all the regular files (not the directories) with a .js extention
