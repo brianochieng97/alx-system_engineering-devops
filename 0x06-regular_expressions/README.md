@@ -1,11 +1,10 @@
 # Regular expression
 
-- Regex using Ruby's Oniguruma library.
+## Background Context
+For this project, you have to build your regular expression using Oniguruma, a regular expression library that which 
+is used by Ruby by default. Note that other regular expression libraries sometimes have different properties.
 
-## Tasks :page_with_curl:
-
-_Note: Each Ruby script in the project matches regular expressions based on an
-argument passed to it via the command line._
+## Tasks 
 
 * **0. Simply matching School**
   * [0-simply_match_school.rb](0-simply_match_school.rb): Ruby script that
@@ -49,3 +48,4 @@ argument passed to it via the command line._
     * `[RECEIVER]` is the receiver phone number or name (including country code
     if present).
     * `[FLAGS]` is the flags that were used.
+
