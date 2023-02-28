@@ -1,4 +1,4 @@
-# Solutions API advanced project
+# Solutions on API advanced project
 
 - Querying Reddit API's.
 
